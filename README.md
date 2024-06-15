@@ -1,6 +1,6 @@
 # GitHub Codespaces for Students
 This is the repository for the LinkedIn Learning course GitHub Codespaces for Students. The full course is available from [LinkedIn Learning][lil-course-url].
-
+hello hello hello
 ![GitHub Codespaces for Students][lil-thumbnail-url] 
 
 Did you know that GitHub Codespaces can help improve your day-to-day life as a student? Even though it’s still relatively new, Codespaces is full of new and exciting opportunities for learning—for students and teachers alike. In this course, instructor David Teather provides a comprehensive, hands-on introduction to Codespaces, showcasing all the benefits it can bring to your projects.
